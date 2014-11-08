@@ -25,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		379EBB04174907F500FA49FF /* provaDizionario.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = provaDizionario.h; sourceTree = "<group>"; };
+		379EBB05174907F500FA49FF /* provaDizionario.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = provaDizionario.m; sourceTree = "<group>"; };
 		37E3197F173FCE8F00BF5310 /* HelloWorld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HelloWorld; sourceTree = BUILT_PRODUCTS_DIR; };
 		37E31983173FCE8F00BF5310 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		37E31985173FCE9000BF5310 /* HelloWorld.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = HelloWorld.1; sourceTree = "<group>"; };
@@ -61,6 +63,8 @@
 			isa = PBXGroup;
 			children = (
 				37E31983173FCE8F00BF5310 /* main.c */,
+				379EBB04174907F500FA49FF /* provaDizionario.h */,
+				379EBB05174907F500FA49FF /* provaDizionario.m */,
 				37E31985173FCE9000BF5310 /* HelloWorld.1 */,
 			);
 			path = HelloWorld;
@@ -210,6 +214,7 @@
 				37E3198B173FCE9000BF5310 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
